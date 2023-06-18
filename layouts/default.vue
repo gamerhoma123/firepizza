@@ -74,8 +74,8 @@
                        <p>Account:Code it</p>
                        <p>account no.00000</p>
                        <p>Branch:dharan</p>
-                       <img src="../asset/img/fonepay-bg.png" alt="Fonepay" class="img-fluid mb-5" style="height: 20px; width: auto">
-                       <img src="../asset/img/codeit-qr.jpg" alt="QR CODE" class="img-fluid" style="height: 100px; width: 100px">
+                       <img src="https://www.bing.com/images/search?q=FonePay+Logo&FORM=IRTRRL" alt="">
+
 
 
                     </div>
